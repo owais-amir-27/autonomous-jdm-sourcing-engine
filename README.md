@@ -1,3 +1,5 @@
+🚧 Status: Active Development (ETA v1.0: June 2026)
+
 # Agentic AI Auditor (Logistics Engine)
 
 An autonomous AI auditing agent built to verify technical specifications of global mechanical parts from unstructured data and low-resolution imagery.
